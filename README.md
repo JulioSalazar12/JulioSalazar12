@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Julio</h1>
-<h3 align="center">A Software Engineering student from Perú</h3>
 
+
+- 👨‍💻 A Software Engineering student from Perú
 - 🔭 I’m currently working on improving the projects I finish. 🔝💯
 - 🌱 I’m currently learning how to develop web applications using react. ⚛🙌
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosalazar12&layout=compact"/>
   </p>
 
