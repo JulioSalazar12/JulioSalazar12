@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Julio</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm Julio</h1>
 
 - 👨‍💻 A Software Engineering student from Perú
 - 🔭 I’m currently working on improving the projects I finish. 🔝💯
