@@ -3,7 +3,7 @@
 - 👨‍💻 A Software Engineering student from Perú
 - 🔭 I’m currently working on improving the projects I finish. 🔝💯
 - 🌱 I’m currently learning how to develop web applications using react. ⚛🙌
-- 📑 Curriculum vitae [English](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar-english.pdf) & [Spanish](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar.pdf)
+- 📑 **Curriculum vitae** [English](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar-english.pdf) & [Spanish](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar.pdf)
 - 🌐 Personal Web Site [julio-salazar.web.app](https://julio-salazar.web.app/)
  ##
 
